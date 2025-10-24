@@ -138,3 +138,11 @@ nav span {
     width: 100%;
   }
 }
+
+.content, 
+.content h2, 
+.content p, 
+nav h1, 
+nav span {
+    color: white !important;
+}
